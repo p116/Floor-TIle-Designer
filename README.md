@@ -1,4 +1,4 @@
-# Floor-TIle-Designer
+# Floor-Tile-Designer
 A Java program that allows users to create a floor design involving fully customizable tiles!
 
 Involes OOP principles to create a tile designer program
