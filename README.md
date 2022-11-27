@@ -10,3 +10,5 @@ The tiles are placed on a floor, containg n rows and m columns, resembling a 2-D
 
 The user can generate a random floor design, create new tiles, delete existing tiles, display the current floor, calculate the total cost, and display the total area
 of each shape.
+
+Also features customizable title screen!
